@@ -1,0 +1,1 @@
+int stringlen(char *s);
